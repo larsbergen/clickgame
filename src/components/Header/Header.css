@@ -1,0 +1,10 @@
+.header {
+  min-height: 400px;
+  padding: 180px 20px; 
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 4rem;
+}
